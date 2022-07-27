@@ -45,7 +45,7 @@ div .madeby {
 }
 
 .madeby a:hover{
-    color: rgb(5, 92, 2);
+    color: lightgray;
 }
 
 .stop-scrolling {
