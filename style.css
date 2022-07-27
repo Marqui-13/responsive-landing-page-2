@@ -32,6 +32,22 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+div .madeby {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
+.madeby a{
+    color: #64bcf4;
+}
+
+.madeby a:hover{
+    color: rgb(5, 92, 2);
+}
+
 .stop-scrolling {
   height: 100%;
   overflow: hidden;
